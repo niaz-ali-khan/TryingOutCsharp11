@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\bin\Debug\net7.0\TryingOutCSharp11.exe
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\bin\Debug\net7.0\TryingOutCSharp11.deps.json
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\bin\Debug\net7.0\TryingOutCSharp11.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\bin\Debug\net7.0\TryingOutCSharp11.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\bin\Debug\net7.0\TryingOutCSharp11.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\refint\TryingOutCSharp11.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\TryingOutCSharp11.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\TryingOutCSharp11\TryingOutCSharp11\obj\Debug\net7.0\ref\TryingOutCSharp11.dll
